@@ -1,3 +1,4 @@
+![CBB Banner](https://cbb.cornell.edu/sites/default/files/2021-04/cbb_banner_full.png)
 # The Center of Bright Beams (CBB)
 Transforming the brightness of beams available to science, medicine, and industry.
 
